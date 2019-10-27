@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: NewKoreographyTrack
+  m_EditorClassIdentifier: 
+  mEventID: teleport
+  mEventList:
+  - mStartSample: 530241
+    mEndSample: 530241
+  - mStartSample: 552291
+    mEndSample: 552291
+  - mStartSample: 618441
+    mEndSample: 618441
+  - mStartSample: 640491
+    mEndSample: 640491
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 0
+  - mIntVal: 1
+  _IntPayloadIdxs: 00000000010000000200000003000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 
